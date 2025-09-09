@@ -32,6 +32,9 @@ export const apps = [
   { name: "百度网盘", url: "https://pan.baidu.com/download", category: "工作", fallbackIcon: "/apps/baiduwangpan.png" },
   { name: "Obsidian", url: "https://obsidian.md/download", category: "工作", fallbackIcon: "/apps/Obsidian.png" },
   { name: "企业微信", url: "https://work.weixin.qq.com/#indexDownload", category: "工作", fallbackIcon: "/apps/qiyeweixin.png" },
+  { name: "小丸工具箱", url: "https://maruko.appinn.me/", category: "工作", fallbackIcon: "/apps/xiaowangongjuxiang.png" },
+  { name: "cherrystudio", url: "https://www.cherry-ai.com/", category: "工作", fallbackIcon: "/apps/cherrystudio.png" },
+  { name: "Obsidian", url: "https://obsidian.md/", category: "工作", fallbackIcon: "/apps/obsidian.svg" },
 
   // 专业课
   { name: "uniapp", url: "https://uniapp.dcloud.net.cn/", category: "专业课", fallbackIcon: "/apps/HBuilderX.png" },
@@ -67,7 +70,7 @@ export const apps = [
   { name: "Nvidia驱动", url: "https://www.nvidia.cn/Download/index.aspx", category: "电脑小插件", fallbackIcon: "/apps/Nvidia.png" },
   { name: "微信输入法", url: "https://z.weixin.qq.com/", category: "电脑小插件", fallbackIcon: "/apps/weixinshurufa.png" },
   { name: "哈哈", url: "https://totorocloud.net", category: "电脑小插件", fallbackIcon: "/apps/cat.jpg" },
-
+  { name: "Windhawk", url: "https://windhawk.net/", category: "电脑小插件", fallbackIcon: "/apps/Windhawk.svg"},
   // 剪视频用的道具
   { name: "剪映", url: "https://lv.ulikecam.com/", category: "剪视频", fallbackIcon: "/apps/jianying.png" },
   { name: "直播伴侣", url: "https://streamingtool.douyin.com/", category: "剪视频", fallbackIcon: "/apps/直播伴侣.png" }, // 推荐OBS
